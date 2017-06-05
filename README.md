@@ -10,9 +10,9 @@ Make sure you have the commands 'java' and 'javac' in your environment variables
 
 change directory into src
 
-execute 'javac wordgame.java' to compile
+execute 'javac Wordgame.java' to compile
 
-execute 'java wordgame' to run the application.
+execute 'java Wordgame' to run the application.
 
 
 NOTES
