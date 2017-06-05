@@ -1,7 +1,6 @@
 # wordgame
 Simple word game where you play against a computer trying to generate a word, each character at a time
 
-
 BUILD/RUN INSTRUCTIONS
 
 Make sure you have java8 (jdk 1.8) and above installed
