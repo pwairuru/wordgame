@@ -3,10 +3,10 @@ Simple word game where you play against a computer trying to generate a word, ea
 
 BUILD/RUN INSTRUCTIONS
 
-Make sure you have java8 (jdk 1.8) and above installed
+Make sure you have java8 (jdk 1.8) and above installed.
 Make sure you have the commands 'java' and 'javac' in your environment variables.
-change directory into 'wordgame/src/wordgame/'
-execute 'javac Wordgame.java' to compile
+change directory into 'wordgame/src/wordgame/'.
+execute 'javac Wordgame.java' to compile.
 execute 'java Wordgame' to run the application.
 
 NOTES
@@ -26,3 +26,4 @@ A function has been created to:
    such a word and hence the human finishes the game. So looses.
    The file 'words.txt' is in the same directory as the source file 'Wordgame.java'
    The first player to play is selected randomly
+.
