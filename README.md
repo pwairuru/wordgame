@@ -10,6 +10,7 @@ execute 'javac Wordgame.java' to compile.
 execute 'java Wordgame' to run the application.
 
 NOTES
+
 A function has been created to:
 
     when the game ends and the player has won,     
@@ -19,6 +20,7 @@ A function has been created to:
     I have disabled that functionality
     
    ASSUMPTIONS.
+   
    No word starts with a number (There is a check for that)   
    No words start with Caps (There is a check for that)   
    Player is allowed only one character at a time (There is a check for that)   
