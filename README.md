@@ -16,6 +16,7 @@ execute 'java wordgame' to run the application.
 
 
 NOTES
+
 A function has been created to:
 
     when the game ends and the player has won, 
