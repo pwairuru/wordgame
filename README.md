@@ -25,4 +25,16 @@ A function has been created to:
     
     that could help the computer win. But the way the dictionary 
     
-    is organised, will make the computer almost alw
+    is organised, will make the computer almost always win. Due to this
+    I have disabled that functionality
+    
+   ASSUMPTIONS.
+   No word starts with a number (There is a check for that)
+   
+   No words start with Caps (There is a check for that)
+   
+   Player is allowed only one character at a time (There is a check for that)
+   
+   If human player types a letter forming an invalid word, the computer wont find
+   
+   such a word and hence the human finishes the game. So looses.
